@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Clesuka
 - 👀 I’m interested in Anything around IT, art and animation
-- 🌱 I’m currently Project Manager for a Game developed by 3 people for a competition
+- 🌱 I’m currently Lead UI/UX Designer for Web-based attendance application
 - 📫 How to reach me : clesuka (Discord)
 
 <!---
