@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Clesuka
 - 👀 I’m interested in Anything around IT, art and animation
-- 🌱 I’m currently Lead UI/UX Designer for Web-based attendance application
+- 🌱 I’m currently self employed at Holic Games Studio, we make games and stuff
 - 📫 How to reach me : clesuka (Discord)
 
 <!---
