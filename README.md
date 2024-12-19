@@ -34,7 +34,7 @@ I have been passionate about games since middle school, and I initially formed a
 
 ### [Stella: The Last Rutherford](https://github.com/Yance24/Stella-lastRutherford)
 
-🔹 **Description**: A RPG Games to Teach JAVA Programming Language.
+🔹 **Description**: A RPG Games to Teach JAVA Programming Language.  
 🔹 **Tech Stack**: RPG Maker MV, JavaScript.  
 🔹 **Design Stack**: Figma, Aseprite.  
 🔹 **Notable Achievement**: Finalist at KMIPN V Game Development Competition (2024).  
