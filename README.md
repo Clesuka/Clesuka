@@ -36,7 +36,7 @@ I have been passionate about games since middle school, and I initially formed a
 
 🔹 **Description**: A RPG Games to Teach JAVA Programming Language.  
 🔹 **Tech Stack**: RPG Maker MV, JavaScript.  
-🔹 **Design Stack**: Figma, Aseprite.  
+🔹 **Design Stack**: Figma, Aseprite, Medibang, CapCut.  
 🔹 **Notable Achievement**: Finalist at KMIPN V Game Development Competition (2024).  
 🔹 **Note**: This is a **private repository**, but feel free to contact me for further details or a demo!
 
