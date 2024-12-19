@@ -17,23 +17,23 @@ I have been passionate about games since middle school, and I initially formed a
 
 ## 🏆 **Highlighted Projects**  
 ### [Spells Connect](https://clesuka.itch.io/spells-connect)  
-🔹 **Description**  : A dungeon-crawling game about rune casting and magic creation.  
-🔹 **Tech Stack**   : Unity, C#.
-🔹 **Design Stack** : Figma, Aseprite.
-🔹 **Note**         :Created for Kenney Game Jam 2024.  
+🔹 **Description**: A dungeon-crawling game about rune casting and magic creation.  
+🔹 **Tech Stack**: Unity, C#.
+🔹 **Design Stack**: Figma, Aseprite.
+🔹 **Note**:Created for Kenney Game Jam 2024.  
 
 ### [Boejang Coffee](https://github.com/Yance24/Warkop-Tycoon)  
-🔹 **Description**         : A tycoon game introducing Pontianak's coffee culture.  
-🔹 **Tech Stack**          : Unity, C#.  
-🔹 **Design Stack**        : Figma, Aseprite.
-🔹 **Notable Achievement** : Finalist at KMIPN VI Game Development Competition (2024).   
+🔹 **Description**: A tycoon game introducing Pontianak's coffee culture.  
+🔹 **Tech Stack**: Unity, C#.  
+🔹 **Design Stack**: Figma, Aseprite.
+🔹 **Notable Achievement**: Finalist at KMIPN VI Game Development Competition (2024).   
 
 ### [Stella: The Last Rutherford].  
-🔹 **Description**         : A RPG Games to Teach JAVA Programming Language.  
-🔹 **Tech Stack**          : RPG Maker MV, JavaScript.  
-🔹 **Design Stack**        : Figma, Aseprite.
-🔹 **Notable Achievement** : Finalist at KMIPN V Game Development Competition (2024).
-🔹 **Note**                : This is a **private repository**, but feel free to contact me for further details or a demo!
+🔹 **Description**: A RPG Games to Teach JAVA Programming Language.  
+🔹 **Tech Stack**: RPG Maker MV, JavaScript.  
+🔹 **Design Stack**: Figma, Aseprite.
+🔹 **Notable Achievement**: Finalist at KMIPN V Game Development Competition (2024).
+🔹 **Note**: This is a **private repository**, but feel free to contact me for further details or a demo!
 
 ---
 
