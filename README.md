@@ -32,7 +32,7 @@ I have been passionate about games since middle school, and I initially formed a
 🔹 **Design Stack**: Figma, Aseprite.  
 🔹 **Notable Achievement**: Finalist at KMIPN VI Game Development Competition (2024).
 
-### [Stella: The Last Rutherford].
+### [Stella: The Last Rutherford](https://github.com/Yance24/Stella-lastRutherford)
 
 🔹 **Description**: A RPG Games to Teach JAVA Programming Language.
 🔹 **Tech Stack**: RPG Maker MV, JavaScript.  
