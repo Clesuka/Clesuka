@@ -20,9 +20,9 @@ I have been passionate about games since middle school, and I initially formed a
 
 ### [Spells Connect](https://clesuka.itch.io/spells-connect)
 
-🔹 **Description**: A dungeon-crawling game about rune casting and magic creation.
-🔹 **Tech Stack**: Unity, C#.
-🔹 **Design Stack**: Figma, Aseprite.
+🔹 **Description**: A dungeon-crawling game about rune casting and magic creation.  
+🔹 **Tech Stack**: Unity, C#.  
+🔹 **Design Stack**: Figma, Aseprite.  
 🔹 **Note**: Created for Kenney Game Jam 2024.
 
 ### [Boejang Coffee](https://github.com/Yance24/Warkop-Tycoon)
